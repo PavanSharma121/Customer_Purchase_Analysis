@@ -1,9 +1,9 @@
 # Customer_Purchase_Analysis
-Customer Purchase Behavior Analysis – [Pandas | Matplotlib | Seaborn | Excel]
+           Customer Purchase Behavior Analysis – [Pandas | Matplotlib | Seaborn | Excel]
 
-Executed comprehensive data cleaning and manipulation tasks, ensuring data accuracy and reliability for subsequent analysis.
+# Executed comprehensive data cleaning and manipulation tasks, ensuring data accuracy and reliability for subsequent analysis.
 
-Conducted thorough Exploratory Data Analysis (EDA) using Pandas, Matplotlib, and Seaborn libraries to derive meaningful insights, contributing to informed business decisions.
+# Conducted thorough Exploratory Data Analysis (EDA) using Pandas, Matplotlib, and Seaborn libraries to derive meaningful insights, contributing to informed business decisions.
 
 Enhanced customer experience by identifying potential customers across different states, analyzing their occupations, gender, and age groups to tailor marketing strategies effectively.
 
