@@ -1,4 +1,4 @@
-# Customer_Purchase_Analysis  [Pandas | Matplotlib | Seaborn | Excel]
+# Customer_Purchase_Analysis  Pandas | Matplotlib | Seaborn | 
 
 * Executed comprehensive data cleaning and manipulation tasks, ensuring data accuracy and reliability for subsequent analysis.
 
